@@ -68,3 +68,4 @@ purchased.
 
 - German open source funding?
 - EU open source funding?
+- Crowdfunding
